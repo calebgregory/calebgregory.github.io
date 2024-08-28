@@ -12,6 +12,10 @@
     color: #ddd;
   }
 
+  strong {
+    color: #fff;
+  }
+
   .sidebar-toggle {
     color: #fff;
     background-color: #333;

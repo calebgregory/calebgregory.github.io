@@ -5,7 +5,10 @@ title: Thile plays Bach
 
 ## Review of Chris Thile's "Bach: Sonatas and Partitas, Vol. 1"
 
-<https://open.spotify.com/album/1uKnB6lenFCpzRK04cIa80?si=CfQce8EwSLeGnH7vrpP3Xg>
+__Listen__:
+
+- [on Spotify](https://open.spotify.com/album/1uKnB6lenFCpzRK04cIa80?si=CfQce8EwSLeGnH7vrpP3Xg)
+- [on Youtube](https://youtube.com/playlist?list=OLAK5uy_ljxwCjE1bVFA4OhcetZNz5DWcLJAgTDsA&si=D3pb4TASoFKwTXKB)
 
 It is a simple story:  Chris Thile plays Bach songs on a porch at night.
 
