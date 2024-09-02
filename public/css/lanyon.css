@@ -25,6 +25,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Extensions
  */
 
 
@@ -556,4 +557,10 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+/* Extensions */
+
+.monospace {
+  font-family: "Ubuntu Mono", "Menlo", "Monaco", monospace;
 }
